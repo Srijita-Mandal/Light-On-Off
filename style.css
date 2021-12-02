@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1+Code&display=swap');
+
+body{
+    background-color: #080749;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.container{
+    padding-top: 50px;
+}
+
+h1{
+    font-family: 'M PLUS 1 Code', sans-serif;
+    color: #ecff3e;
+    float: center;
+    padding-bottom: 15px;
+}
+
+button{
+    font-family: 'M PLUS 1 Code', sans-serif;
+    padding: 10px;
+    background-color: #ff95ed;
+    display: inline-block;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: 400ns;
+}
+
+button:hover{
+    font-family: 'M PLUS 1 Code', sans-serif;
+    padding: 10px;
+    background-color: #ff4be1;
+    display: inline-block;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: 400ns;
+    box-shadow: 0.5rem 0.5rem 2rem 0.2rem rgba(0,0,0,0.4);
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    padding-bottom: 10px;;
+}
+
+h4{
+    color: white;
+    font-family: 'Fuzzy Bubbles', cursive;
+    padding-top: 70px;
+}
